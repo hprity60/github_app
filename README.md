@@ -9,4 +9,5 @@ This is the source code of github search app
 - google_font
 
 I have applied bloc state management for managing state.
+There was an issue for fetch list and search. I'm woring on it to fix the issue. 
 
